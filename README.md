@@ -1,7 +1,18 @@
-### Hi there 👋
+## Hi there, I'm Pedro 👋
+
+<div>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=sammsouzaa&show_icons=true&theme=github_dark&hide_border=true"/> 
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammsouzaa&layout=compact&theme=github_dark&hide_border=true"/>
+  <br>
+</div>
+
+### Redes Sociais 📱
+<div>
+  <a href="https://instagram.com/pedro_bolfe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-20232A?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+</div>
 
 <!--
-**pedrobolfe/pedrobolfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sammsouzaa/sammsouzaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
