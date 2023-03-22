@@ -1,8 +1,8 @@
 ## Hi there, I'm Pedro 👋
 
 <div>
-  <img width="398px" height="" src="https://github-readme-stats.vercel.app/api?username=pedrobolfe&show_icons=true&theme=radical&hide_border=true"/> 
-  <img width="280x" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobolfe&layout=compact&theme=radical&hide_border=true"/>
+  <img width="398px"  src="https://github-readme-stats.vercel.app/api?username=pedrobolfe&show_icons=true&theme=radical&hide_border=true"/> 
+  <img width="302px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobolfe&layout=compact&theme=radical&hide_border=true"/>
   <br>
 </div>
 
