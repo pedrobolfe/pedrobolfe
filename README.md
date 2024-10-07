@@ -2,7 +2,7 @@
 
 ### 💻 Desenvolvedor e Estudante de Análise e Desenvolvimento de Sistemas
 
-Atualmente cursando Tecnologia em Análise e Desenvolvimento de Sistemas, sou apaixonado por desenvolvimento de software e sempre busco aprender novas tecnologias. Gosto de explorar áreas como desenvolvimento web, APIs e inteligência artificial. Aqui, compartilho projetos e colaborações, principalmente em:
+Atualmente cursando Tecnologia em Análise e Desenvolvimento de Sistemas, sou apaixonado por desenvolvimento de software e sempre busco aprender novas tecnologias. Gosto de explorar áreas como desenvolvimento web, APIs e inteligência artificial.
 
 - **Desenvolvimento Web** com Angular, TypeScript e Node.js
 - **Java** para back-end e desenvolvimento de aplicações robustas
@@ -12,7 +12,7 @@ Atualmente cursando Tecnologia em Análise e Desenvolvimento de Sistemas, sou ap
 
 ### ⚡ Tecnologias e Ferramentas
 
-Aqui estão algumas das tecnologias que utilizo no meu dia a dia de desenvolvimento:
+Aqui estão algumas das tecnologias que tenho conhecimento:
 
 - **Frontend**
   - ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
