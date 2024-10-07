@@ -31,21 +31,8 @@ Aqui estão algumas das tecnologias que utilizo no meu dia a dia de desenvolvime
   
 ---
 
-### 🚀 Projetos em Destaque
-
-- **Projeto de API com FastAPI** - [Repositório](#)
-  - Uma API robusta e rápida construída para mostrar o poder de FastAPI em aplicações de grande escala.
-  
-- **Aplicação Web com Angular e Node.js** - [Repositório](#)
-  - Uma aplicação completa de front-end e back-end, integrando Angular no front e Node.js no back.
-  
-- **Automatização com Java** - [Repositório](#)
-  - Ferramentas e scripts desenvolvidos em Java para automação de tarefas e análises de dados.
-
----
-
 ### 📫 Entre em Contato
-- LinkedIn: [linkedin.com/in/pedrobolfe](https://www.linkedin.com/in/pedro-henrique-schroeder-bolfe/)
+- LinkedIn: [linkedin.com/in/pedrobolfe](https://www.linkedin.com/in/pedro-henrique-schroeder-bolfe-2b80aa278/)
 - Email: pedroschroeder06@gmail.com
 
 Sinta-se à vontade para explorar meus repositórios e me seguir para acompanhar meus projetos e contribuições mais recentes! 😄
