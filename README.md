@@ -2,7 +2,7 @@
 
 💻 **Desenvolvedor de Software | Estudante de Análise e Desenvolvimento de Sistemas**
 
-Sou estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)** no **IFPR – Campus Cascavel (3/3)**.  
+Sou estudante de **Tecnologo em Análise e Desenvolvimento de Sistemas (TADS)** no **IFPR – Campus Cascavel (3/3)**.  
 Tenho interesse em **engenharia de software, desenvolvimento de APIs, arquitetura de sistemas e inteligência artificial**.
 
 Gosto de desenvolver **sistemas web, APIs escaláveis e aplicações bem estruturadas**, sempre buscando aplicar boas práticas de desenvolvimento e arquitetura.
