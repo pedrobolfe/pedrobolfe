@@ -47,13 +47,6 @@ My main interests are software engineering, backend development, application arc
 - Application Security
 - Digital Forensics and Incident Response
 
-### GitHub Activity
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pedrobolfe&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobolfe&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
-</p>
-
 ### Education
 
 **Technology Degree in Systems Analysis and Development**
