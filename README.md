@@ -1,85 +1,72 @@
-# 👋 Olá, eu sou Pedro Henrique Schroeder Bolfe
+# Pedro Bolfe
 
-💻 **Desenvolvedor de Software | Estudante de Análise e Desenvolvimento de Sistemas**
+**Full Stack Developer | Java · Spring Boot · Angular**
 
-Sou estudante de **Tecnologo em Análise e Desenvolvimento de Sistemas (TADS)** no **IFPR – Campus Cascavel (3/3)**.  
-Tenho interesse em **engenharia de software, desenvolvimento de APIs, arquitetura de sistemas e inteligência artificial**.
+I'm a Software Development student at the Federal Institute of Paraná (IFPR), focused on building web applications, REST APIs, and well-structured software solutions.
 
-Gosto de desenvolver **sistemas web, APIs escaláveis e aplicações bem estruturadas**, sempre buscando aplicar boas práticas de desenvolvimento e arquitetura.
+My main interests are software engineering, backend development, application architecture, and artificial intelligence. I enjoy working across the stack, from designing APIs and business logic to building responsive user interfaces.
 
----
+### Tech Stack
 
-# 🚀 Tecnologias e Ferramentas
+**Frontend**
+ 
+![Angular](https://img.shields.io/badge/Angular-0F0F0F?style=flat&logo=angular&logoColor=DD0031)
+![TypeScript](https://img.shields.io/badge/TypeScript-0F0F0F?style=flat&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0F0F0F?style=flat&logo=javascript&logoColor=F7DF1E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0F0F0F?style=flat&logo=bootstrap&logoColor=7952B3)
+![SCSS](https://img.shields.io/badge/SCSS-0F0F0F?style=flat&logo=sass&logoColor=CC6699)
 
-## 🖥️ Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+**Backend**
 
----
+![Java](https://img.shields.io/badge/Java-0F0F0F?style=flat&logo=openjdk&logoColor=ED8B00)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0F0F0F?style=flat&logo=springboot&logoColor=6DB33F)
+![Node.js](https://img.shields.io/badge/Node.js-0F0F0F?style=flat&logo=nodedotjs&logoColor=339933)
+![Python](https://img.shields.io/badge/Python-0F0F0F?style=flat&logo=python&logoColor=3776AB)
+![FastAPI](https://img.shields.io/badge/FastAPI-0F0F0F?style=flat&logo=fastapi&logoColor=009688)
 
-## ⚙️ Backend
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+**Databases**
 
----
+![MySQL](https://img.shields.io/badge/MySQL-0F0F0F?style=flat&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0F0F0F?style=flat&logo=mongodb&logoColor=47A248)
 
-## 🗄️ Banco de Dados
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Tools & Infrastructure**
 
----
+![Git](https://img.shields.io/badge/Git-0F0F0F?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0F0F0F?style=flat&logo=github&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-0F0F0F?style=flat&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-0F0F0F?style=flat&logo=linux&logoColor=FCC624)
+![VS Code](https://img.shields.io/badge/VS%20Code-0F0F0F?style=flat&logo=visualstudiocode&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/Figma-0F0F0F?style=flat&logo=figma&logoColor=F24E1E)
 
-## 🔧 Ferramentas e DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### Areas of Interest
 
----
+- Full Stack Web Development
+- REST API Design and Development
+- Software Architecture and Engineering
+- Artificial Intelligence
+- Application Security
+- Digital Forensics and Incident Response
 
-# 📚 Áreas de Interesse
+### GitHub Activity
 
-- Desenvolvimento de APIs REST
-- Arquitetura de Software
-- Desenvolvimento Web
-- Inteligência Artificial
-- Segurança da Informação
-- Computação Forense e Resposta a Incidentes
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pedrobolfe&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobolfe&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+</p>
 
----
+### Education
 
-# 📊 GitHub Stats
+**Technology Degree in Systems Analysis and Development**
 
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrobolfe&show_icons=true&theme=tokyonight)
+Federal Institute of Paraná (IFPR) — Cascavel, Brazil
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobolfe&layout=compact&theme=tokyonight)
+Expected graduation: 2026
 
----
+### Contact
 
-# 🎓 Formação
-
-**Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)**  
-Instituto Federal do Paraná — IFPR Campus Cascavel  
-📅 Conclusão: 2026  
-📊 **3 / 3**
+- **LinkedIn:** [Pedro Henrique Schroeder Bolfe](https://www.linkedin.com/in/pedro-henrique-schroeder-bolfe-2b80aa278/)
+- **Email:** [pedroschroeder06@gmail.com](mailto:pedroschroeder06@gmail.com)
 
 ---
 
-# 📫 Contato
-
-💼 LinkedIn  
-https://www.linkedin.com/in/pedro-henrique-schroeder-bolfe-2b80aa278/
-
-📧 Email  
-pedroschroeder06@gmail.com
-
----
-
-⭐ *Sinta-se à vontade para explorar meus repositórios e acompanhar meus projetos.*
+*Always learning, building, and improving.*
